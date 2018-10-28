@@ -1,6 +1,3 @@
-Thanks for downloading this theme!
+Welcome to our HackATL 2018 Landing Page!
 
-Theme Name: Medilab
-Theme URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+This page showcases some of the aspects of our business and provides a brief synopsis of our business. It also showcases our UI/UX capabilities.
